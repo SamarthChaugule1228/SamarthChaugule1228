@@ -47,7 +47,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake.svg">
 </picture>
+
 ---
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
