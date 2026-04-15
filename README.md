@@ -24,12 +24,12 @@
 
 ## ✨ About Me
 
-- 🎓 B.E. Information Technology @ PICT (CGPA: 8.95)  
-- 💼 Full Stack Developer Intern @ Akiyam Solutions  
-- 🌱 Working on **MERN Stack, REST APIs, Scalable Systems**  
-- ⚡ Solved **500+ DSA problems**  
-- 🏆 **298th rank** among 50,000+ diploma students  
-- ⭐ **5-star MySQL** on HackerRank  
+- 🎓 B.E. Information Technology @ PICT (CGPA: 8.95)
+- 💼 Full Stack Developer Intern @ Akiyam Solutions
+- 🌱 Working on **MERN Stack, REST APIs, Scalable Systems**
+- ⚡ Solved **500+ DSA problems**
+- 🏆 **298th rank** among 50,000+ diploma students
+- ⭐ **5-star MySQL** on HackerRank
 
 ---
 
@@ -51,12 +51,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SamarthChaugule1228&theme=tokyonight&hide_border=true" />
 </p>
----
-
-## 🐍 Contribution Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthChaugule1228&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -66,17 +63,17 @@
 <details>
 <summary>🚀 Click to View Projects</summary>
 
-### 🌍 Wanderlust – Travel Stay Platform  
-- 🛠️ Node.js, Express, MongoDB  
-- 🔥 Full CRUD + REST APIs  
-- 📱 Responsive UI  
+### 🌍 Wanderlust – Travel Stay Platform
+- 🛠️ Node.js, Express, MongoDB
+- 🔥 Full CRUD + REST APIs
+- 📱 Responsive UI
 
 ---
 
-### 🛒 Accessify – Marketplace  
-- ⚡ React, Node.js, MongoDB  
-- 🔐 JWT Authentication  
-- 🔔 Real-time Notifications  
+### 🛒 Accessify – Marketplace
+- ⚡ React, Node.js, MongoDB
+- 🔐 JWT Authentication
+- 🔔 Real-time Notifications
 
 </details>
 
@@ -84,16 +81,16 @@
 
 ## 🏆 Achievements
 
-- 🧠 500+ DSA Problems Solved  
-- ⭐ 5★ MySQL (HackerRank)  
-- 🏅 298th Rank (50,000+ students)  
-- 📦 17+ GitHub Repositories  
+- 🧠 500+ DSA Problems Solved
+- ⭐ 5★ MySQL (HackerRank)
+- 🏅 298th Rank (50,000+ students)
+- 📦 17+ GitHub Repositories
 
 ---
 
 ## 📜 Certifications
 
-- 📘 DSA with Java – Apna College  
+- 📘 DSA with Java – Apna College
 
 ---
 
@@ -116,8 +113,6 @@
 ## ⚡ Fun Fact
 
 > *"Code is like humor. When you have to explain it, it's bad."*
-
----
 
 <p align="center">
   💙 Thanks for visiting! Let's build something amazing 🚀
