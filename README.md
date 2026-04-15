@@ -40,7 +40,13 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake.svg">
+</picture>
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -106,13 +112,7 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SamarthChaugule1228/SamarthChaugule1228/output/snake.svg">
-</picture>
 ## ⚡ Fun Fact
 
 > *"Code is like humor. When you have to explain it, it's bad."*
