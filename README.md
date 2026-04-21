@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Samarth Chaugule</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | DSA Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | DSA Problem Solver </h3>
 
 <!-- Typing Animation -->
 <p align="center">
