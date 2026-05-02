@@ -24,7 +24,7 @@
 
 ## ✨ About Me
 
-- 🎓 B.E. Information Technology @ PICT (CGPA: 8.95)
+- 🎓 B.E. Information Technology @ PICT 
 - 💼 Full Stack Developer Intern @ Akiyam Solutions
 - 🌱 Working on **MERN Stack, REST APIs, Scalable Systems**
 - ⚡ Solved **500+ DSA problems**
